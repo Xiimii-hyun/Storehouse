@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Xiimii
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: hojun
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://Xiimii-hyun.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -48,7 +48,8 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace: ''
-  wrap: true
+  wrap: truehexo d
+  
   hljs: false
 prismjs:
   preprocess: true
@@ -101,4 +102,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/Xiimii-hyun/Xiimii-hyun.github.io.git
+  branch: master
