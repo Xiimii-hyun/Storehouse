@@ -8,11 +8,11 @@ menu:
 banner: https://qiniu.sukoshi.xyz/src/images/68686407_p0.jpg
 
 # 站点通知信息
-notice: flex-block主题部分重构，详情查看https://github.com/miiiku/flex-block
+notice: flex-block主题部分重,详情查看https://github.com/miiiku/flex-block
 
 # 作者信息
 author:
-  name: Sukoshi
+  name: Xiimii-hyun
   avatar: https://s.gravatar.com/avatar/2d6b803eea37de0257620d5fabee7e64?s=200&r=g&d=retro
   description: 贵在坚持
 
@@ -95,8 +95,8 @@ favicon: /favicon.ico
 social_icon:
   enable: true
   icons:
-    ins     :
-    zhihu   :
+    ins     : 
+    zhihu   : 
     weibo   : 
     github  : https://github.com/Xiimii-hyun
     twitter : /
